@@ -1,0 +1,22 @@
+===========
+git-example
+===========
+
+This is a repo to try out git.
+
+-----------
+Release 0.1
+-----------
+NEW FEATURES:
+- Function A
+
+NOTES:
+- What do you want to know?
+
+CHANGES:
+- Nothing changed.
+
+BUG FIXES:
+
+KNOWN ISSUES:
+- README is not helpful at all!!
